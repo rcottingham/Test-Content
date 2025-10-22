@@ -2657,58 +2657,62 @@
     },
     "CEAC": {
         "ceac_sets/eac3/at1/2023-11-08/": {
-            "representations": [
-                {
-                    "bitrate": "128000",
-                    "samplerate": "48000",
-                    "input": "PN01.wav"
-                }
-            ],
+            "representations": {
+                "codec": "ec-3",
+                "encryption": "unencrypted",
+                "bitrate": "128",
+                "samplerate": "48",
+                "input": "PN01.wav"
+            },
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
+            "trackDuration": "30.0",
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-11-08/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-11-08/at1.zip"
         },
         "ceac_sets/eac3/at2/2023-11-08/": {
-            "representations": [
-                {
-                    "bitrate": "128000",
-                    "samplerate": "48000",
-                    "input": "PN01.wav"
-                }
-            ],
+            "representations": {
+                "codec": "ec-3",
+                "encryption": "unencrypted",
+                "bitrate": "128",
+                "samplerate": "48",
+                "input": "PN01.wav"
+            },
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "4",
+            "trackDuration": "30.0",
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-11-08/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-11-08/at2.zip"
         },
         "ceac_sets/eac3/at3/2023-11-08/": {
-            "representations": [
-                {
-                    "bitrate": "128000",
-                    "samplerate": "48000",
-                    "input": "PN03.wav"
-                }
-            ],
+            "representations": {
+                "codec": "ec-3",
+                "encryption": "unencrypted",
+                "bitrate": "128",
+                "samplerate": "48",
+                "input": "PN03.wav"
+            },
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
+            "trackDuration": "10.0",
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-11-08/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-11-08/at3.zip"
         },
         "ceac_sets/eac3/at4/2023-11-08/": {
-            "representations": [
-                {
-                    "bitrate": "128000",
-                    "samplerate": "48000",
-                    "input": "PN04.wav"
-                }
-            ],
+            "representations": {
+                "codec": "ec-3",
+                "encryption": "unencrypted",
+                "bitrate": "128",
+                "samplerate": "48",
+                "input": "PN04.wav"
+            },
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
+            "trackDuration": "5.76",
             "mpdPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at4/2023-11-08/stream.mpd",
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at4/2023-11-08/at4.zip"
         }
