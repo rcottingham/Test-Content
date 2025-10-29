@@ -2724,6 +2724,7 @@
                 "encryption": "unencrypted",
                 "bitrate": "64",
                 "samplerate": "48",
+                "framerate": "30",
                 "input": "PN01.wav"
             },
             "channel": "stereo",
@@ -2739,6 +2740,7 @@
                 "encryption": "unencrypted",
                 "bitrate": "64",
                 "samplerate": "48",
+                "framerate": "30",
                 "input": "PN01.wav"
             },
             "channel": "stereo",
@@ -2754,6 +2756,7 @@
                 "encryption": "unencrypted",
                 "bitrate": "64",
                 "samplerate": "48",
+                "framerate": "30",
                 "input": "PN03.wav"
             },
             "channel": "stereo",
@@ -2769,6 +2772,7 @@
                 "encryption": "unencrypted",
                 "bitrate": "64",
                 "samplerate": "48",
+                "framerate": "30",
                 "input": "PN04.wav"
             },
             "channel": "stereo",
