@@ -2940,7 +2940,7 @@
                     "bitrate": "128",
                     "samplerate": "48",
                     "encryption": "Clearkey",
-                    "input": "PN03.wav
+                    "input": "PN03.wav"
                 }
             ],
             "channel": "Stereo",
@@ -2959,7 +2959,7 @@
                     "bitrate": "128",
                     "samplerate": "48",
                     "encryption": "Clearkey",
-                    "input": "PN04.wav
+                    "input": "PN04.wav"
                 }
             ],
             "channel": "Stereo",
