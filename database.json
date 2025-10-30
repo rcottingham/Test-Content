@@ -2657,13 +2657,15 @@
     },
     "CEAC": {
         "ceac_sets/eac3/at1/2023-11-08/": {
-            "representations": {
-                "codec": "ec-3",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ec-3",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
@@ -2672,13 +2674,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at1/2023-11-08/at1.zip"
         },
         "ceac_sets/eac3/at2/2023-11-08/": {
-            "representations": {
-                "codec": "ec-3",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ec-3",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "4",
@@ -2687,13 +2691,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at2/2023-11-08/at2.zip"
         },
         "ceac_sets/eac3/at3/2023-11-08/": {
-            "representations": {
-                "codec": "ec-3",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN03.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ec-3",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN03.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
@@ -2702,13 +2708,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ceac_sets/eac3/at3/2023-11-08/at3.zip"
         },
         "ceac_sets/eac3/at4/2023-11-08/": {
-            "representations": {
-                "codec": "ec-3",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN04.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ec-3",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN04.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.016",
             "chunksPerFragment": "1",
@@ -2719,14 +2727,16 @@
     },
     "CA4S": {
         "ca4s_sets/ac4/at1/2023-08-01/": {
-            "representations": {
-                "codec": "ac-4.02.01.00",
-                "bitrate": "64",
-                "samplerate": "48",
-                "framerate": "30",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ac-4.02.01.00",
+                    "bitrate": "64",
+                    "samplerate": "48",
+                    "framerate": "30",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.0",
             "chunksPerFragment": "1",
@@ -2735,14 +2745,16 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ca4s_sets/ac4/at1/2023-08-01/at1.zip"
         },
         "ca4s_sets/ac4/at2/2023-08-01/": {
-            "representations": {
-                "codec": "ac-4.02.01.00",
-                "bitrate": "64",
-                "samplerate": "48",
-                "framerate": "30",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ac-4.02.01.00",
+                    "bitrate": "64",
+                    "samplerate": "48",
+                    "framerate": "30",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.0",
             "chunksPerFragment": "4",
@@ -2751,14 +2763,16 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ca4s_sets/ac4/at2/2023-08-01/at2.zip"
         },
         "ca4s_sets/ac4/at3/2023-08-01/": {
-            "representations": {
-                "codec": "ac-4.02.01.00",
-                "bitrate": "64",
-                "samplerate": "48",
-                "framerate": "30",
-                "encryption": "unencrypted",                
-                "input": "PN03.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ac-4.02.01.00",
+                    "bitrate": "64",
+                    "samplerate": "48",
+                    "framerate": "30",
+                    "encryption": "unencrypted",                
+                    "input": "PN03.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.0",
             "chunksPerFragment": "1",
@@ -2767,14 +2781,16 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/ca4s_sets/ac4/at3/2023-08-01/at3.zip"
         },
         "ca4s_sets/ac4/at4/2023-08-01/": {
-            "representations": {
-                "codec": "ac-4.02.01.00",
-                "bitrate": "64",
-                "samplerate": "48",
-                "framerate": "30",
-                "encryption": "unencrypted",
-                "input": "PN04.wav"
-            },
+            "representations": [
+                {
+                    "codec": "ac-4.02.01.00",
+                    "bitrate": "64",
+                    "samplerate": "48",
+                    "framerate": "30",
+                    "encryption": "unencrypted",
+                    "input": "PN04.wav"
+                }
+            ],
             "channel": "stereo",
             "segmentDuration": "2.0",
             "chunksPerFragment": "1",
@@ -2785,13 +2801,15 @@
     },
     "CAAC": {
         "caac_sets/aac_lc/at1/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",             
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",             
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2802,13 +2820,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at1/2023-04-27/at1.zip"
         },
         "caac_sets/aac_lc/at2/2023-08-01/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "4",
@@ -2819,13 +2839,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at2/2023-08-01/at2.zip"
         },
         "caac_sets/aac_lc/at3/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2836,13 +2858,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at3/2023-04-27/at3.zip"
         },
         "caac_sets/aac_lc/at4/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2853,13 +2877,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at4/2023-04-27/at4.zip"
         },
         "caac_sets/aac_lc/at5/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2870,13 +2896,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at5/2023-04-27/at5.zip"
         },
         "caac_sets/aac_lc/at13/2025-09-02/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN03.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN03.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.92",
             "chunksPerFragment": "1",
@@ -2887,13 +2915,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at13/2025-09-02/at13.zip"
         },
         "caac_sets/aac_lc/at14/2025-09-02/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN04.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN04.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.92",
             "chunksPerFragment": "1",
@@ -2904,13 +2934,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at14/2025-09-02/at14.zip"
         },
         "caac_sets/aac_lc/at15/2023-08-01/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "Clearkey",
-                "input": "PN03.wav
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "Clearkey",
+                    "input": "PN03.wav
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2921,13 +2953,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at15/2023-08-01/at15.zip"
         },
         "caac_sets/aac_lc/at16/2023-08-01/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "Clearkey",
-                "input": "PN04.wav
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "Clearkey",
+                    "input": "PN04.wav
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2938,13 +2972,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/aac_lc/at16/2023-08-01/at16.zip"
         },
         "caac_sets/he_aac/at6/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.5",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.5",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2955,13 +2991,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/he_aac/at6/2023-04-27/at6.zip"
         },
         "caac_sets/he_aac_v2/at7/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.29",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.29",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2972,13 +3010,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caac_sets/he_aac_v2/at7/2023-04-27/at7.zip"
         },
         "caac_sets/aac_lc/at17/2025-09-02/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -2991,13 +3031,15 @@
     },
     "CAAA": {
         "caaa_sets/aac_lc/at8/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -3008,13 +3050,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caaa_sets/aac_lc/at8/2023-04-27/at8.zip"
         },
         "caaa_sets/he_aac/at9/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.5",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.5",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -3025,13 +3069,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/caaa_sets/he_aac/at9/2023-04-27/at9.zip"
         },
         "caaa_sets/he_aac_v2/at10/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.29",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.29",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "Stereo",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -3044,13 +3090,15 @@
     },
     "CAMC": {
         "camc_sets/aac_lc/at11/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.2",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.2",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "5.1",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
@@ -3061,13 +3109,15 @@
             "zipPath": "https://dash-large-files.akamaized.net/WAVE/vectors/releases/1/camc_sets/aac_lc/at11/2023-04-27/at11.zip"
         },
         "camc_sets/he_aac/at12/2023-04-27/": {
-            "representations": {
-                "codec": "mp4a.40.5",
-                "bitrate": "128",
-                "samplerate": "48",
-                "encryption": "unencrypted",
-                "input": "PN01.wav"
-            },
+            "representations": [
+                {
+                    "codec": "mp4a.40.5",
+                    "bitrate": "128",
+                    "samplerate": "48",
+                    "encryption": "unencrypted",
+                    "input": "PN01.wav"
+                }
+            ],
             "channel": "5.1",
             "segmentDuration": "1.984",
             "chunksPerFragment": "1",
