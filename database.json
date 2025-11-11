@@ -2661,7 +2661,7 @@
                 {
                     "codec": "ec-3",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2678,7 +2678,7 @@
                 {
                     "codec": "ec-3",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2695,7 +2695,7 @@
                 {
                     "codec": "ec-3",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN03.wav"
                 }
@@ -2712,7 +2712,7 @@
                 {
                     "codec": "ec-3",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN04.wav"
                 }
@@ -2731,7 +2731,7 @@
                 {
                     "codec": "ac-4.02.01.00",
                     "bitrate": "64",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "framerate": "30",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
@@ -2749,7 +2749,7 @@
                 {
                     "codec": "ac-4.02.01.00",
                     "bitrate": "64",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "framerate": "30",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
@@ -2767,7 +2767,7 @@
                 {
                     "codec": "ac-4.02.01.00",
                     "bitrate": "64",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "framerate": "30",
                     "encryption": "unencrypted",                
                     "input": "PN03.wav"
@@ -2785,7 +2785,7 @@
                 {
                     "codec": "ac-4.02.01.00",
                     "bitrate": "64",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "framerate": "30",
                     "encryption": "unencrypted",
                     "input": "PN04.wav"
@@ -2805,7 +2805,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",             
                     "input": "PN01.wav"
                 }
@@ -2824,7 +2824,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2843,7 +2843,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2862,7 +2862,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2881,7 +2881,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2900,7 +2900,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN03.wav"
                 }
@@ -2919,7 +2919,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN04.wav"
                 }
@@ -2938,7 +2938,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "Clearkey",
                     "input": "PN03.wav"
                 }
@@ -2957,7 +2957,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "Clearkey",
                     "input": "PN04.wav"
                 }
@@ -2976,7 +2976,7 @@
                 {
                     "codec": "mp4a.40.5",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -2995,7 +2995,7 @@
                 {
                     "codec": "mp4a.40.29",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -3014,7 +3014,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -3035,7 +3035,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -3054,7 +3054,7 @@
                 {
                     "codec": "mp4a.40.5",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -3073,7 +3073,7 @@
                 {
                     "codec": "mp4a.40.29",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -3094,7 +3094,7 @@
                 {
                     "codec": "mp4a.40.2",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
@@ -3113,7 +3113,7 @@
                 {
                     "codec": "mp4a.40.5",
                     "bitrate": "128",
-                    "samplerate": "48",
+                    "samplerate": "48000",
                     "encryption": "unencrypted",
                     "input": "PN01.wav"
                 }
